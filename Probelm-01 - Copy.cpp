@@ -105,5 +105,6 @@ int main() {
     }
     cout<<"This is printed after the first commit is done"<<'\n';
     cout<<"This is printed after the first commit is done- v-2"<<'\n';
+    cout<<"This is printed after the third commit is done- v-2"<<'\n';
     return 0;
 }
